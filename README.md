@@ -1,1 +1,1 @@
-Formação Python para data science ministrado pela alura
+Projetos criados através da formação **Python para Data Science** ministrada pela Alura.
