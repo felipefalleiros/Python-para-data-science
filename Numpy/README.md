@@ -1,2 +1,2 @@
 # numpy
-Curso de Numpy na Alura
+Curso de introdução ao Numpy na Alura
